@@ -1,6 +1,6 @@
 {
   "name": "customise-text-editor",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "A highly customizable, production-ready Rich Text Editor for React, powered by Tiptap.",
   "type": "module",
   "main": "./dist/customise-text-editor.umd.js",
