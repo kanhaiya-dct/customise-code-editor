@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kanhaiya-dct/customise-code-editor/main/public/banner.png" alt="Customise-Text-Editor Banner" width="800" />
 
   # 💎 Customise-Text-Editor
 
